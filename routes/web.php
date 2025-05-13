@@ -16,4 +16,5 @@ use App\Http\Controllers\FrontEndController;
 
 Route::get('/', [FrontEndController::class, 'index'])->name('home');
 Route::get('/about-us', [FrontEndController::class, 'about'])->name('about');
+Route::get('/serviecs', [FrontEndController::class, 'serviecs'])->name('serviecs');
 

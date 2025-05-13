@@ -91,7 +91,7 @@
             </li>
 
 
-            <li><a href="#">Our Services</a></li>
+            <li><a href="">Our Services</a></li>
 
             <li >
                 <a href="#">Gallery </a>
@@ -109,7 +109,7 @@
 
 
     <!-- mobile menu end -->
-    <section class="bg-primary desktop-menu"
+    <section class="bg-primary desktop-menu">
         <div class="container">
             <div class="row align-items-center ">
                 <div class="col-sm-3">
@@ -122,7 +122,7 @@
                 <div class="col-sm-9">
                     <div class="main-nav">
                         <ul class="menu ">
-                            <li><a href="#">Home</a></li>
+                            <li><a href="{{route('home')}}">Home</a></li>
 
                             <li class="dropdown">
                                 <a href="#">About Company <i class="fa fa-caret-down"></i></a>
@@ -155,7 +155,7 @@
                             </li>
 
 
-                            <li><a href="#">Our Services</a></li>
+                            <li><a href="{{route('serviecs')}}">Our Services</a></li>
 
                             <li class="dropdown">
                                 <a href="#">Gallery <i class="fa fa-caret-down"></i></a>

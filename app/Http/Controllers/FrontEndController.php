@@ -16,4 +16,9 @@ class FrontEndController extends Controller
         return view('frontEnd.layouts.pages.about');
 
     }
+    public function serviecs(){
+
+        return view('frontEnd.layouts.pages.serviecs');
+
+    }
 }

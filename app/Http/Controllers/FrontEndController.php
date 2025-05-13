@@ -21,4 +21,14 @@ class FrontEndController extends Controller
         return view('frontEnd.layouts.pages.serviecs');
 
     }
+    public function photogallery(){
+
+        return view('frontEnd.layouts.pages.photogallery');
+
+    }
+    public function videogallery(){
+
+        return view('frontEnd.layouts.pages.videogallery');
+
+    }
 }

@@ -160,8 +160,8 @@
                             <li class="dropdown">
                                 <a href="#">Gallery <i class="fa fa-caret-down"></i></a>
                                 <ul class="submenu">
-                                    <li><a href="#">Photo Gallery</a></li>
-                                    <li><a href="#">Video Gallery</a></li>
+                                    <li><a href="{{route('photogallery')}}">Photo Gallery</a></li>
+                                    <li><a href="{{ route('videogallery') }}">Video Gallery</a></li>
                                 </ul>
                             </li>
 

@@ -516,6 +516,17 @@ button svg {
     display: none !important;
 }
 
+.delete-btn{
+    color: #e54444;
+    font-size: 25px;
+    
+}
+.update-btn{
+    color: #44e564;
+    font-size: 25px;
+    
+}
+
 
 @media (max-width: 576px) {
     .desktop-menu {

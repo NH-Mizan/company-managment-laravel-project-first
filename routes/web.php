@@ -4,6 +4,7 @@ use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\FrontEndController;
 use App\Http\Controllers\Admin\DashboardController;
 use App\Http\Controllers\Admin\GeneralSettingController;
+use App\Http\Controllers\Admin\AboutSettingController;
 
 
 
@@ -35,4 +36,10 @@ Route::post('/admin/generlsetting/store', [GeneralSettingController::class, 'sto
 
 
 
+Route::get('/admin/aboutsetting/manage', [AboutSettingController::class, 'index'])->name('aboutsetting.index');
 
+
+
+Route::get('/admin/aboutsetting/create', [AboutSettingController::class, 'create'])->name('aboutsetting.create');
+
+Route::post('/admin/aboutsetting/store', [AboutSettingController::class, 'store'])->name('aboutsetting.store');

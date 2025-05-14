@@ -22,7 +22,7 @@
                     <div class="col-sm-3">
                         <div class="product-card">
                             <a href="">
-                                <img src="{{asset('frontend')}}/images/Power Transformer.jpg" alt="">
+                                <img src="{{asset('public/frontend')}}/images/Power Transformer.jpg" alt="">
                                 <p>Power Transformer</p>
                             </a>
                         </div>
@@ -30,7 +30,7 @@
                     <div class="col-sm-3">
                         <div class="product-card">
                             <a href="">
-                                <img src="{{asset('frontend')}}/images/Distribution Transformer.jfif" alt="">
+                                <img src="{{asset('public/frontend')}}/images/Distribution Transformer.jfif" alt="">
                                 <p>Distribution Transformer</p>
                             </a>
                         </div>
@@ -38,7 +38,7 @@
                     <div class="col-sm-3">
                         <div class="product-card">
                             <a href="">
-                                <img src="{{asset('frontend')}}/images/HT-removebg-preview-removebg-preview.png" alt="">
+                                <img src="{{asset('public/frontend')}}/images/HT-removebg-preview-removebg-preview.png" alt="">
                                 <p>HT Switchgear</p>
                             </a>
                         </div>
@@ -46,7 +46,7 @@
                     <div class="col-sm-3">
                         <div class="product-card">
                             <a href="">
-                                <img src="{{asset('frontend')}}/images/LT.jpg" alt="">
+                                <img src="{{asset('public/frontend')}}/images/LT.jpg" alt="">
                                 <p>LT Switchgear</p>
                             </a>
                         </div>
@@ -54,7 +54,7 @@
                     <div class="col-sm-3">
                         <div class="product-card">
                             <a href="">
-                                <img src="{{asset('frontend')}}/images/PFI.png" alt="">
+                                <img src="{{asset('public/frontend')}}/images/PFI.png" alt="">
                                 <p>PFI Plant</p>
                             </a>
                         </div>
@@ -62,7 +62,7 @@
                     <div class="col-sm-3">
                         <div class="product-card">
                             <a href="">
-                                <img src="{{asset('frontend')}}/images/Submersible Pump-Motor.png" alt="">
+                                <img src="{{asset('public/frontend')}}/images/Submersible Pump-Motor.png" alt="">
                                 <p>Submersible Pump-Motor</p>
                             </a>
                         </div>
@@ -70,7 +70,7 @@
                     <div class="col-sm-3">
                         <div class="product-card">
                             <a href="">
-                                <img src="{{asset('frontend')}}/images/Starter-removebg-preview.png" alt="">
+                                <img src="{{asset('public/frontend')}}/images/Starter-removebg-preview.png" alt="">
                                 <p>Pump starter: DOL &amp; Star-Delta</p>
                             </a>
                         </div>
@@ -78,7 +78,7 @@
                     <div class="col-sm-3">
                         <div class="product-card">
                             <a href="">
-                                <img src="{{asset('frontend')}}/images/Ekran-Resmi-2021-06-08-07.54.03-1.png" alt="">
+                                <img src="{{asset('public/frontend')}}/images/Ekran-Resmi-2021-06-08-07.54.03-1.png" alt="">
                                 <p>Capacitor</p>
                             </a>
                         </div>

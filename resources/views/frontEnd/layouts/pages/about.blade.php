@@ -31,7 +31,7 @@
                 </div>
                 <div class="col-sm-6">
                     <div class="about-mission-img">
-                        <img src="{{asset('frontend')}}/images/1701691851-factory.jfif" alt="">
+                        <img src="{{asset('public/frontend')}}/images/1701691851-factory.jfif" alt="">
                     </div>
                 </div>
             </div>
@@ -48,30 +48,30 @@
                                 <h2 class="text-center text-white">projects</h2>
                             </div>
                             <div class="banner-slider owl-carousel owl-theme">
-                                <div class="item"><img src="{{asset('frontend')}}/images/HT LT Cover.jpg " alt="Slide 1">
+                                <div class="item"><img src="{{asset('public/frontend')}}/images/HT LT Cover.jpg " alt="Slide 1">
                                     <p>3000 KVA 33/11KV Substation</p>
                                     <p>Vintage, Denim, Gazipur</p>
                                 </div>
-                                <div class="item"><img src="{{asset('frontend')}}/images/LT PFI Cover.jpg " alt="Slide 1">
+                                <div class="item"><img src="{{asset('public/frontend')}}/images/LT PFI Cover.jpg " alt="Slide 1">
                                     <p>33/11KV, 11/0.4 KV Substation</p>
                                     <p>Maksuda Spinning Mills, Narsingdi.</p>
                                 </div>
-                                <div class="item"><img src="{{asset('frontend')}}/images/PFI66.jpg" alt="Slide 1">
+                                <div class="item"><img src="{{asset('public/frontend')}}/images/PFI66.jpg" alt="Slide 1">
                                     <p>33/11KV Substation&nbsp;at Narsingdi</p>
                                 </div>
-                                <div class="item"><img src="{{asset('frontend')}}/images/Radiator.jpg" alt="Slide 1">
+                                <div class="item"><img src="{{asset('public/frontend')}}/images/Radiator.jpg" alt="Slide 1">
                                     <p>33/11KV, 11/0.4 KV Substation</p>
                                     <p>at Narayanganj.</p>
                                 </div>
-                                <div class="item"><img src="{{asset('frontend')}}/images/T-2.jpg" alt="Slide 54">
+                                <div class="item"><img src="{{asset('public/frontend')}}/images/T-2.jpg" alt="Slide 54">
                                     <p>Substation</p>
                                     <p>at Narsingdi.<br></p>
                                 </div>
-                                <div class="item"><img src="{{asset('frontend')}}/images/Solar panel Cover.jpg" alt="Slide 1">
+                                <div class="item"><img src="{{asset('public/frontend')}}/images/Solar panel Cover.jpg" alt="Slide 1">
                                     <p>630 KVA Substation Commissioned Sucessfully</p>
                                     <p>at Sonargaon</p>
                                 </div>
-                                <div class="item"><img src="{{asset('frontend')}}/images/T-1.jpg" alt="Slide 1">
+                                <div class="item"><img src="{{asset('public/frontend')}}/images/T-1.jpg" alt="Slide 1">
                                     <p>3600 W Off/On Grid Solar Panel installed </p>
                                     <p>at our factory, Narayanganj.</p>
                                 </div>

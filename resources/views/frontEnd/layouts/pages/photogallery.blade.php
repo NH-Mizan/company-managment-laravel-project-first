@@ -19,64 +19,64 @@
             <!-- Gallery Image Item -->
             <div class="col-sm-3">
                 <div class="gallery-image">
-                    <a href="{{asset('frontend')}}/images/Power Transformer.jpg" target="_blank">
-                        <img src="{{asset('frontend')}}/images/Power Transformer.jpg" alt="Power Transformer">
+                    <a href="{{asset('public/frontend')}}/images/Power Transformer.jpg" target="_blank">
+                        <img src="{{asset('public/frontend')}}/images/Power Transformer.jpg" alt="Power Transformer">
                     </a>
                 </div>
             </div>
 
             <div class="col-sm-3">
                 <div class="gallery-image">
-                    <a href="{{asset('frontend')}}/images/Distribution Transformer.jfif" target="_blank">
-                        <img src="{{asset('frontend')}}/images/Distribution Transformer.jfif" alt="Distribution Transformer">
+                    <a href="{{asset('public/frontend')}}/images/Distribution Transformer.jfif" target="_blank">
+                        <img src="{{asset('public/frontend')}}/images/Distribution Transformer.jfif" alt="Distribution Transformer">
                     </a>
                 </div>
             </div>
 
             <div class="col-sm-3">
                 <div class="gallery-image">
-                    <a href="{{asset('frontend')}}/images/HT-removebg-preview-removebg-preview.png" target="_blank">
-                        <img src="{{asset('frontend')}}/images/HT-removebg-preview-removebg-preview.png" alt="HT Switchgear">
+                    <a href="{{asset('public/frontend')}}/images/HT-removebg-preview-removebg-preview.png" target="_blank">
+                        <img src="{{asset('public/frontend')}}/images/HT-removebg-preview-removebg-preview.png" alt="HT Switchgear">
                     </a>
                 </div>
             </div>
 
             <div class="col-sm-3">
                 <div class="gallery-image">
-                    <a href="{{asset('frontend')}}/images/LT.jpg" target="_blank">
-                        <img src="{{asset('frontend')}}/images/LT.jpg" alt="LT Switchgear">
+                    <a href="{{asset('public/frontend')}}/images/LT.jpg" target="_blank">
+                        <img src="{{asset('public/frontend')}}/images/LT.jpg" alt="LT Switchgear">
                     </a>
                 </div>
             </div>
 
             <div class="col-sm-3">
                 <div class="gallery-image">
-                    <a href="{{asset('frontend')}}/images/PFI.png" target="_blank">
-                        <img src="{{asset('frontend')}}/images/PFI.png" alt="PFI Plant">
+                    <a href="{{asset('public/frontend')}}/images/PFI.png" target="_blank">
+                        <img src="{{asset('public/frontend')}}/images/PFI.png" alt="PFI Plant">
                     </a>
                 </div>
             </div>
 
             <div class="col-sm-3">
                 <div class="gallery-image">
-                    <a href="{{asset('frontend')}}/images/Submersible Pump-Motor.png" target="_blank">
-                        <img src="{{asset('frontend')}}/images/Submersible Pump-Motor.png" alt="Submersible Pump-Motor">
+                    <a href="{{asset('public/frontend')}}/images/Submersible Pump-Motor.png" target="_blank">
+                        <img src="{{asset('public/frontend')}}/images/Submersible Pump-Motor.png" alt="Submersible Pump-Motor">
                     </a>
                 </div>
             </div>
 
             <div class="col-sm-3">
                 <div class="gallery-image">
-                    <a href="{{asset('frontend')}}/images/Starter-removebg-preview.png" target="_blank">
-                        <img src="{{asset('frontend')}}/images/Starter-removebg-preview.png" alt="Pump Starter">
+                    <a href="{{asset('public/frontend')}}/images/Starter-removebg-preview.png" target="_blank">
+                        <img src="{{asset('public/frontend')}}/images/Starter-removebg-preview.png" alt="Pump Starter">
                     </a>
                 </div>
             </div>
 
             <div class="col-sm-3">
                 <div class="gallery-image">
-                    <a href="{{asset('frontend')}}/images/Ekran-Resmi-2021-06-08-07.54.03-1.png" target="_blank">
-                        <img src="{{asset('frontend')}}/images/Ekran-Resmi-2021-06-08-07.54.03-1.png" alt="Capacitor">
+                    <a href="{{asset('public/frontend')}}/images/Ekran-Resmi-2021-06-08-07.54.03-1.png" target="_blank">
+                        <img src="{{asset('public/frontend')}}/images/Ekran-Resmi-2021-06-08-07.54.03-1.png" alt="Capacitor">
                     </a>
                 </div>
             </div>
@@ -85,64 +85,64 @@
 
             <div class="col-sm-3">
                 <div class="gallery-image">
-                    <a href="{{asset('frontend')}}/images/Power Transformer.jpg" target="_blank">
-                        <img src="{{asset('frontend')}}/images/Power Transformer.jpg" alt="Power Transformer">
+                    <a href="{{asset('public/frontend')}}/images/Power Transformer.jpg" target="_blank">
+                        <img src="{{asset('public/frontend')}}/images/Power Transformer.jpg" alt="Power Transformer">
                     </a>
                 </div>
             </div>
 
             <div class="col-sm-3">
                 <div class="gallery-image">
-                    <a href="{{asset('frontend')}}/images/Distribution Transformer.jfif" target="_blank">
-                        <img src="{{asset('frontend')}}/images/Distribution Transformer.jfif" alt="Distribution Transformer">
+                    <a href="{{asset('public/frontend')}}/images/Distribution Transformer.jfif" target="_blank">
+                        <img src="{{asset('public/frontend')}}/images/Distribution Transformer.jfif" alt="Distribution Transformer">
                     </a>
                 </div>
             </div>
 
             <div class="col-sm-3">
                 <div class="gallery-image">
-                    <a href="{{asset('frontend')}}/images/HT-removebg-preview-removebg-preview.png" target="_blank">
-                        <img src="{{asset('frontend')}}/images/HT-removebg-preview-removebg-preview.png" alt="HT Switchgear">
+                    <a href="{{asset('public/frontend')}}/images/HT-removebg-preview-removebg-preview.png" target="_blank">
+                        <img src="{{asset('public/frontend')}}/images/HT-removebg-preview-removebg-preview.png" alt="HT Switchgear">
                     </a>
                 </div>
             </div>
 
             <div class="col-sm-3">
                 <div class="gallery-image">
-                    <a href="{{asset('frontend')}}/images/LT.jpg" target="_blank">
-                        <img src="{{asset('frontend')}}/images/LT.jpg" alt="LT Switchgear">
+                    <a href="{{asset('public/frontend')}}/images/LT.jpg" target="_blank">
+                        <img src="{{asset('public/frontend')}}/images/LT.jpg" alt="LT Switchgear">
                     </a>
                 </div>
             </div>
 
             <div class="col-sm-3">
                 <div class="gallery-image">
-                    <a href="{{asset('frontend')}}/images/PFI.png" target="_blank">
-                        <img src="{{asset('frontend')}}/images/PFI.png" alt="PFI Plant">
+                    <a href="{{asset('public/frontend')}}/images/PFI.png" target="_blank">
+                        <img src="{{asset('public/frontend')}}/images/PFI.png" alt="PFI Plant">
                     </a>
                 </div>
             </div>
 
             <div class="col-sm-3">
                 <div class="gallery-image">
-                    <a href="{{asset('frontend')}}/images/Submersible Pump-Motor.png" target="_blank">
-                        <img src="{{asset('frontend')}}/images/Submersible Pump-Motor.png" alt="Submersible Pump-Motor">
+                    <a href="{{asset('public/frontend')}}/images/Submersible Pump-Motor.png" target="_blank">
+                        <img src="{{asset('public/frontend')}}/images/Submersible Pump-Motor.png" alt="Submersible Pump-Motor">
                     </a>
                 </div>
             </div>
 
             <div class="col-sm-3">
                 <div class="gallery-image">
-                    <a href="{{asset('frontend')}}/images/Starter-removebg-preview.png" target="_blank">
-                        <img src="{{asset('frontend')}}/images/Starter-removebg-preview.png" alt="Pump Starter">
+                    <a href="{{asset('public/frontend')}}/images/Starter-removebg-preview.png" target="_blank">
+                        <img src="{{asset('public/frontend')}}/images/Starter-removebg-preview.png" alt="Pump Starter">
                     </a>
                 </div>
             </div>
 
             <div class="col-sm-3">
                 <div class="gallery-image">
-                    <a href="{{asset('frontend')}}/images/Ekran-Resmi-2021-06-08-07.54.03-1.png" target="_blank">
-                        <img src="{{asset('frontend')}}/images/Ekran-Resmi-2021-06-08-07.54.03-1.png" alt="Capacitor">
+                    <a href="{{asset('public/frontend')}}/images/Ekran-Resmi-2021-06-08-07.54.03-1.png" target="_blank">
+                        <img src="{{asset('public/frontend')}}/images/Ekran-Resmi-2021-06-08-07.54.03-1.png" alt="Capacitor">
                     </a>
                 </div>
             </div>

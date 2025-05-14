@@ -5,13 +5,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>satcobd </title>
-    <link rel="shortcut icon" href="{{asset('frontend')}}/images/correct.png" type="image/x-icon">
-    <link rel="stylesheet" href="{{asset('frontend')}}/css/owl.carousel.min.css">
-    <link rel="stylesheet" href="{{asset('frontend')}}/css/owl.theme.default.min.css">
-    <link rel="stylesheet" href="{{asset('frontend')}}/css/all.min.css">
-    <link rel="stylesheet" href="{{asset('frontend')}}/css/bootstrap.min.css">
-    <link rel="stylesheet" href="{{asset('frontend')}}/css/style.css">
-    <link rel="stylesheet" href="{{asset('frontend')}}/css/meanmenu.css">
+    <link rel="shortcut icon" href="{{asset('public/frontend')}}/images/correct.png" type="image/x-icon">
+    <link rel="stylesheet" href="{{asset('public/frontend')}}/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="{{asset('public/frontend')}}/css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="{{asset('public/frontend')}}/css/all.min.css">
+    <link rel="stylesheet" href="{{asset('public/frontend')}}/css/bootstrap.min.css">
+    <link rel="stylesheet" href="{{asset('public/frontend')}}/css/style.css">
+    <link rel="stylesheet" href="{{asset('public/frontend')}}/css/meanmenu.css">
 
 
 
@@ -115,7 +115,7 @@
                 <div class="col-sm-3">
                     <div class="logo-area">
                         <a href="#">
-                            <img src="{{asset('frontend')}}/images/8.png" alt="Satco Logo" style="height: 60px;">
+                            <img src="{{asset('public/frontend')}}/images/8.png" alt="Satco Logo" style="height: 60px;">
                         </a>
                     </div>
                 </div>
@@ -270,12 +270,12 @@
 
 
 
-    <script src="{{asset('frontend')}}/js/jquery-3.7.1.min.js"></script>
-    <script src="{{asset('frontend')}}/js/owl.carousel.min.js"></script>
-    <script src="{{asset('frontend')}}/js/all.min.js"></script>
-    <script src="{{asset('frontend')}}/js/bootstrap.bundle.min.js"></script>
-    <script src="{{asset('frontend')}}/js/script.js"></script>
-    <script src="{{asset('frontend')}}/js/jquery.meanmenu.js"></script>
+    <script src="{{asset('public/frontend')}}/js/jquery-3.7.1.min.js"></script>
+    <script src="{{asset('public/frontend')}}/js/owl.carousel.min.js"></script>
+    <script src="{{asset('public/frontend')}}/js/all.min.js"></script>
+    <script src="{{asset('public/frontend')}}/js/bootstrap.bundle.min.js"></script>
+    <script src="{{asset('public/frontend')}}/js/script.js"></script>
+    <script src="{{asset('public/frontend')}}/js/jquery.meanmenu.js"></script>
     <script>
         jQuery(document).ready(function () {
             jQuery('nav').meanmenu();

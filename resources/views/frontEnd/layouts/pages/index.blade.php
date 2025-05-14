@@ -4,13 +4,13 @@
     <!-- banner section Start -->
     <div class="main-slider-section">
         <div class="main-slider owl-carousel owl-theme">
-            <div class="item"><img src="{{asset('frontend')}}/images/HT LT Cover.jpg " alt="Slide 1"></div>
-            <div class="item"><img src="{{asset('frontend')}}/images/LT PFI Cover.jpg " alt="Slide 1"></div>
-            <div class="item"><img src="{{asset('frontend')}}/images/PFI66.jpg" alt="Slide 1"></div>
-            <div class="item"><img src="{{asset('frontend')}}/images/Radiator.jpg" alt="Slide 1"></div>
-            <div class="item"><img src="{{asset('frontend')}}/images/T-2.jpg" alt="Slide 54"></div>
-            <div class="item"><img src="{{asset('frontend')}}/images/Solar panel Cover.jpg" alt="Slide 1"></div>
-            <div class="item"><img src="{{asset('frontend')}}/images/T-1.jpg" alt="Slide 1"></div>
+            <div class="item"><img src="{{asset('public/frontend')}}/images/HT LT Cover.jpg " alt="Slide 1"></div>
+            <div class="item"><img src="{{asset('public/frontend')}}/images/LT PFI Cover.jpg " alt="Slide 1"></div>
+            <div class="item"><img src="{{asset('public/frontend')}}/images/PFI66.jpg" alt="Slide 1"></div>
+            <div class="item"><img src="{{asset('public/frontend')}}/images/Radiator.jpg" alt="Slide 1"></div>
+            <div class="item"><img src="{{asset('public/frontend')}}/images/T-2.jpg" alt="Slide 54"></div>
+            <div class="item"><img src="{{asset('public/frontend')}}/images/Solar panel Cover.jpg" alt="Slide 1"></div>
+            <div class="item"><img src="{{asset('public/frontend')}}/images/T-1.jpg" alt="Slide 1"></div>
         </div>
     </div>
     <!-- banner section end -->
@@ -45,7 +45,7 @@
                 </div>
                 <div class="col-sm-6">
                     <div class="about-mission-img">
-                        <img src="{{asset('frontend')}}/images/1701691851-factory.jfif" alt="">
+                        <img src="{{asset('public/frontend')}}/images/1701691851-factory.jfif" alt="">
                     </div>
                 </div>
             </div>
@@ -71,7 +71,7 @@
                 <div class="col-sm-3">
                     <div class="product-card">
                         <a href="">
-                            <img src="{{asset('frontend')}}/images/Power Transformer.jpg" alt="">
+                            <img src="{{asset('public/frontend')}}/images/Power Transformer.jpg" alt="">
                             <p>Power Transformer</p>
                         </a>
                     </div>
@@ -79,7 +79,7 @@
                 <div class="col-sm-3">
                     <div class="product-card">
                         <a href="">
-                            <img src="{{asset('frontend')}}/images/Distribution Transformer.jfif" alt="">
+                            <img src="{{asset('public/frontend')}}/images/Distribution Transformer.jfif" alt="">
                             <p>Distribution Transformer</p>
                         </a>
                     </div>
@@ -87,7 +87,7 @@
                 <div class="col-sm-3">
                     <div class="product-card">
                         <a href="">
-                            <img src="{{asset('frontend')}}/images/HT-removebg-preview-removebg-preview.png" alt="">
+                            <img src="{{asset('public/frontend')}}/images/HT-removebg-preview-removebg-preview.png" alt="">
                             <p>HT Switchgear</p>
                         </a>
                     </div>
@@ -95,7 +95,7 @@
                 <div class="col-sm-3">
                     <div class="product-card">
                         <a href="">
-                            <img src="{{asset('frontend')}}/images/LT.jpg" alt="">
+                            <img src="{{asset('public/frontend')}}/images/LT.jpg" alt="">
                             <p>LT Switchgear</p>
                         </a>
                     </div>
@@ -103,7 +103,7 @@
                 <div class="col-sm-3">
                     <div class="product-card">
                         <a href="">
-                            <img src="{{asset('frontend')}}/images/PFI.png" alt="">
+                            <img src="{{asset('public/frontend')}}/images/PFI.png" alt="">
                             <p>PFI Plant</p>
                         </a>
                     </div>
@@ -111,7 +111,7 @@
                 <div class="col-sm-3">
                     <div class="product-card">
                         <a href="">
-                            <img src="{{asset('frontend')}}/images/Submersible Pump-Motor.png" alt="">
+                            <img src="{{asset('public/frontend')}}/images/Submersible Pump-Motor.png" alt="">
                             <p>Submersible Pump-Motor</p>
                         </a>
                     </div>
@@ -119,7 +119,7 @@
                 <div class="col-sm-3">
                     <div class="product-card">
                         <a href="">
-                            <img src="{{asset('frontend')}}/images/Starter-removebg-preview.png" alt="">
+                            <img src="{{asset('public/frontend')}}/images/Starter-removebg-preview.png" alt="">
                             <p>Pump starter: DOL &amp; Star-Delta</p>
                         </a>
                     </div>
@@ -127,7 +127,7 @@
                 <div class="col-sm-3">
                     <div class="product-card">
                         <a href="">
-                            <img src="{{asset('frontend')}}/images/Ekran-Resmi-2021-06-08-07.54.03-1.png" alt="">
+                            <img src="{{asset('public/frontend')}}/images/Ekran-Resmi-2021-06-08-07.54.03-1.png" alt="">
                             <p>Capacitor</p>
                         </a>
                     </div>
@@ -157,7 +157,7 @@
                     <div class="col-sm-3">
                         <div class="product-card">
                             <a href="">
-                                <img src="{{asset('frontend')}}/images/Power Transformer.jpg" alt="">
+                                <img src="{{asset('public/frontend')}}/images/Power Transformer.jpg" alt="">
                                 <p>Power Transformer</p>
                             </a>
                         </div>
@@ -165,7 +165,7 @@
                     <div class="col-sm-3">
                         <div class="product-card">
                             <a href="">
-                                <img src="{{asset('frontend')}}/images/Distribution Transformer.jfif" alt="">
+                                <img src="{{asset('public/frontend')}}/images/Distribution Transformer.jfif" alt="">
                                 <p>Distribution Transformer</p>
                             </a>
                         </div>
@@ -173,7 +173,7 @@
                     <div class="col-sm-3">
                         <div class="product-card">
                             <a href="">
-                                <img src="{{asset('frontend')}}/images/HT-removebg-preview-removebg-preview.png" alt="">
+                                <img src="{{asset('public/frontend')}}/images/HT-removebg-preview-removebg-preview.png" alt="">
                                 <p>HT Switchgear</p>
                             </a>
                         </div>
@@ -181,7 +181,7 @@
                     <div class="col-sm-3">
                         <div class="product-card">
                             <a href="">
-                                <img src="{{asset('frontend')}}/images/LT.jpg" alt="">
+                                <img src="{{asset('public/frontend')}}/images/LT.jpg" alt="">
                                 <p>LT Switchgear</p>
                             </a>
                         </div>
@@ -189,7 +189,7 @@
                     <div class="col-sm-3">
                         <div class="product-card">
                             <a href="">
-                                <img src="{{asset('frontend')}}/images/PFI.png" alt="">
+                                <img src="{{asset('public/frontend')}}/images/PFI.png" alt="">
                                 <p>PFI Plant</p>
                             </a>
                         </div>
@@ -197,7 +197,7 @@
                     <div class="col-sm-3">
                         <div class="product-card">
                             <a href="">
-                                <img src="{{asset('frontend')}}/images/Submersible Pump-Motor.png" alt="">
+                                <img src="{{asset('public/frontend')}}/images/Submersible Pump-Motor.png" alt="">
                                 <p>Submersible Pump-Motor</p>
                             </a>
                         </div>
@@ -205,7 +205,7 @@
                     <div class="col-sm-3">
                         <div class="product-card">
                             <a href="">
-                                <img src="{{asset('frontend')}}/images/Starter-removebg-preview.png" alt="">
+                                <img src="{{asset('public/frontend')}}/images/Starter-removebg-preview.png" alt="">
                                 <p>Pump starter: DOL &amp; Star-Delta</p>
                             </a>
                         </div>
@@ -213,7 +213,7 @@
                     <div class="col-sm-3">
                         <div class="product-card">
                             <a href="">
-                                <img src="{{asset('frontend')}}/images/Ekran-Resmi-2021-06-08-07.54.03-1.png" alt="">
+                                <img src="{{asset('public/frontend')}}/images/Ekran-Resmi-2021-06-08-07.54.03-1.png" alt="">
                                 <p>Capacitor</p>
                             </a>
                         </div>
@@ -254,30 +254,30 @@
                                 <h2 class="text-center text-white">projects</h2>
                             </div>
                             <div class="banner-slider owl-carousel owl-theme">
-                                <div class="item"><img src="{{asset('frontend')}}/images/HT LT Cover.jpg " alt="Slide 1">
+                                <div class="item"><img src="{{asset('public/frontend')}}/images/HT LT Cover.jpg " alt="Slide 1">
                                     <p>3000 KVA 33/11KV Substation</p>
                                     <p>Vintage, Denim, Gazipur</p>
                                 </div>
-                                <div class="item"><img src="{{asset('frontend')}}/images/LT PFI Cover.jpg " alt="Slide 1">
+                                <div class="item"><img src="{{asset('public/frontend')}}/images/LT PFI Cover.jpg " alt="Slide 1">
                                     <p>33/11KV, 11/0.4 KV Substation</p>
                                     <p>Maksuda Spinning Mills, Narsingdi.</p>
                                 </div>
-                                <div class="item"><img src="{{asset('frontend')}}/images/PFI66.jpg" alt="Slide 1">
+                                <div class="item"><img src="{{asset('public/frontend')}}/images/PFI66.jpg" alt="Slide 1">
                                     <p>33/11KV Substation&nbsp;at Narsingdi</p>
                                 </div>
-                                <div class="item"><img src="{{asset('frontend')}}/images/Radiator.jpg" alt="Slide 1">
+                                <div class="item"><img src="{{asset('public/frontend')}}/images/Radiator.jpg" alt="Slide 1">
                                     <p>33/11KV, 11/0.4 KV Substation</p>
                                     <p>at Narayanganj.</p>
                                 </div>
-                                <div class="item"><img src="{{asset('frontend')}}/images/T-2.jpg" alt="Slide 54">
+                                <div class="item"><img src="{{asset('public/frontend')}}/images/T-2.jpg" alt="Slide 54">
                                     <p>Substation</p>
                                     <p>at Narsingdi.<br></p>
                                 </div>
-                                <div class="item"><img src="{{asset('frontend')}}/images/Solar panel Cover.jpg" alt="Slide 1">
+                                <div class="item"><img src="{{asset('public/frontend')}}/images/Solar panel Cover.jpg" alt="Slide 1">
                                     <p>630 KVA Substation Commissioned Sucessfully</p>
                                     <p>at Sonargaon</p>
                                 </div>
-                                <div class="item"><img src="{{asset('frontend')}}/images/T-1.jpg" alt="Slide 1">
+                                <div class="item"><img src="{{asset('public/frontend')}}/images/T-1.jpg" alt="Slide 1">
                                     <p>3600 W Off/On Grid Solar Panel installed </p>
                                     <p>at our factory, Narayanganj.</p>
                                 </div>
@@ -310,7 +310,7 @@
                         <div class="row">
                             <div class="col-sm-4">
                                 <div class="blog-card">
-                                    <div class="blog-img"> <img src="{{asset('frontend')}}/images/1.jpg" class="card-img-top" alt="..."></div>
+                                    <div class="blog-img"> <img src="{{asset('public/frontend')}}/images/1.jpg" class="card-img-top" alt="..."></div>
                                     <div class="blog-info ">
                                         <div class="date">
                                             <p>16n JAN</p>
@@ -329,7 +329,7 @@
 
                             <div class="col-sm-4">
                                 <div class="blog-card">
-                                    <div class="blog-img"> <img src="{{asset('frontend')}}/images/2.jpg" class="card-img-top" alt="..."></div>
+                                    <div class="blog-img"> <img src="{{asset('public/frontend')}}/images/2.jpg" class="card-img-top" alt="..."></div>
                                     <div class="blog-info ">
                                         <div class="date">
                                             <p>16n JAN</p>
@@ -347,7 +347,7 @@
                             </div>
                             <div class="col-sm-4">
                                 <div class="blog-card">
-                                    <div class="blog-img"> <img src="{{asset('frontend')}}/images/9.jpg" class="card-img-top" alt="..."></div>
+                                    <div class="blog-img"> <img src="{{asset('public/frontend')}}/images/9.jpg" class="card-img-top" alt="..."></div>
                                     <div class="blog-info ">
                                         <div class="date">
                                             <p>16n JAN</p>

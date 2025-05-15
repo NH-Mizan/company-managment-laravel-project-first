@@ -34,25 +34,27 @@
         </div>
         <!--end::Header-->
         <!--begin::Form-->
-        <form action="{{ route('products.store') }}" method="post">
+        <form action="{{ route('products.update') }}" method="post">
         @csrf
+        <input type="hidden" name="hidden_id" value="{{ $product->id }}">
         <!--begin::Body-->
         <div class="card-body">
           <div class="mb-3">
           <label for="exampleInputEmail1" class="form-label">Products Image</label>
-          <input type="text" class="form-control" id="image" name="image">
+          <input type="text" class="form-control" id="image" name="image" value="{{ $product->image }}">
 
           </div>
           <div class="mb-3">
           <label for="exampleInputEmail1" class="form-label">Products Image</label>
-          <input type="text" class="form-control" id="description" name="description">
+          <input type="text" class="form-control" id="description" name="description"
+            value="{{ $product->description }}">
 
           </div>
 
           <!-- <div class="input-group mb-3">
-              <input type="file" class="form-control" id="inputGroupFile02">
-              <label class="input-group-text" for="inputGroupFile02">Upload</label>
-              </div> -->
+          <input type="file" class="form-control" id="inputGroupFile02">
+          <label class="input-group-text" for="inputGroupFile02">Upload</label>
+          </div> -->
           <div class="btn-group btn-group-toggle" data-toggle="buttons">
           <label class="btn btn-secondary active">
             <input type="radio" name="status" value="1" id="option_a1" autocomplete="off" checked=""> Active
@@ -60,7 +62,7 @@
           <label class="btn btn-secondary">
             <input type="radio" name="status" value="0" id="option_a2" autocomplete="off"> Inactive
           </label>
-
+          
           </div>
 
 

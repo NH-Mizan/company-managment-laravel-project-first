@@ -15,6 +15,7 @@ return new class extends Migration
             $table->increments('id');
             $table->string('name')->length(91)->nullable();
             $table->string('des')->nullable();
+            $table->tinyInteger('status')->default(1);
             $table->timestamps();
         });
     }

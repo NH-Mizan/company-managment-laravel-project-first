@@ -43,6 +43,12 @@ Route::get('/admin/aboutsetting/create', [AboutSettingController::class, 'create
 
 Route::post('/admin/aboutsetting/store', [AboutSettingController::class, 'store'])->name('aboutsetting.store');
 
+Route::get('/admin/aboutsetting/delete/{id}', [AboutSettingController::class,'delete'])->name('aboutsetting.delete');
+
+Route::get('/admin/about/edit/{id}', [AboutSettingController::class, 'edit'])->name('about.edit');
+
+Route::post('/admin/about/update', [AboutSettingController::class, 'update'])->name('about.update');
+
 
 
 
@@ -53,3 +59,8 @@ Route::get('/admin/products/create', [ProductsController::class, 'create'])->nam
 Route::post('/admin/products/store', [ProductsController::class, 'store'])->name('products.store');
 // web.php
 Route::get('/admin/products/destroy/{id}', [ProductsController::class, 'destroy'])->name('products.destroy');
+Route::get('/admin/products/edite/{id}', [ProductsController::class, 'edite'])->name('products.edite');
+Route::post('/admin/products/update', [ProductsController::class, 'update'])->name('products.update');
+Route::post('admin/products/active', [ProductsController::class, 'active'])->name('products.active');
+Route::post('admin/products/inactive', [ProductsController::class, 'inactive'])->name('products.inactive');
+

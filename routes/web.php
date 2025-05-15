@@ -5,6 +5,7 @@ use App\Http\Controllers\FrontEndController;
 use App\Http\Controllers\Admin\DashboardController;
 use App\Http\Controllers\Admin\GeneralSettingController;
 use App\Http\Controllers\Admin\AboutSettingController;
+use App\Http\Controllers\Admin\ProductsController;
 
 
 
@@ -38,8 +39,17 @@ Route::post('/admin/generlsetting/store', [GeneralSettingController::class, 'sto
 
 Route::get('/admin/aboutsetting/manage', [AboutSettingController::class, 'index'])->name('aboutsetting.index');
 
-
-
 Route::get('/admin/aboutsetting/create', [AboutSettingController::class, 'create'])->name('aboutsetting.create');
 
 Route::post('/admin/aboutsetting/store', [AboutSettingController::class, 'store'])->name('aboutsetting.store');
+
+
+
+
+Route::get('/admin/products/manage', [ProductsController::class, 'index'])->name('products.index');
+
+Route::get('/admin/products/create', [ProductsController::class, 'create'])->name('products.create');
+
+Route::post('/admin/products/store', [ProductsController::class, 'store'])->name('products.store');
+// web.php
+Route::get('/admin/products/destroy/{id}', [ProductsController::class, 'destroy'])->name('products.destroy');
